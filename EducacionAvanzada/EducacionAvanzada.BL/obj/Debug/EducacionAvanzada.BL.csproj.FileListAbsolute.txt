@@ -1,0 +1,10 @@
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EducacionAvanzada.BL.dll.config
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EducacionAvanzada.BL.dll
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EducacionAvanzada.BL.pdb
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EntityFramework.dll
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EntityFramework.xml
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\obj\Debug\EducacionAvanzada.BL.csprojResolveAssemblyReference.cache
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\obj\Debug\EducacionAvanzada.BL.dll
+C:\Users\Franklin88\Desktop\Edgar\educacionavanzada-master\EducacionAvanzada\EducacionAvanzada.BL\obj\Debug\EducacionAvanzada.BL.pdb
